@@ -1,0 +1,13 @@
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.csprojAssemblyReference.cache
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.Properties.Resources.resources
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.Ribbon1.resources
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.csproj.GenerateResource.cache
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\fajarah\source\repos\homework\homework\bin\Debug\homework.dll
+C:\Users\fajarah\source\repos\homework\homework\bin\Debug\homework.pdb
+C:\Users\fajarah\source\repos\homework\homework\bin\Debug\homework.dll.manifest
+C:\Users\fajarah\source\repos\homework\homework\bin\Debug\homework.vsto
+C:\Users\fajarah\source\repos\homework\homework\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.csproj.CopyComplete
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.dll
+C:\Users\fajarah\source\repos\homework\homework\obj\Debug\homework.pdb
